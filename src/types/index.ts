@@ -16,6 +16,7 @@ export interface Comentario {
   id: string;
   nomeUsuario: string;
   comentario: string;
+  rating?: number;
   createdAt: string;
 }
 

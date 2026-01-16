@@ -186,7 +186,7 @@ const CommentsSection: React.FC = () => {
                       key={star}
                       size={14}
                       className={
-                        star <= com.rating
+                        star <= (com.rating || 0)
                           ? 'fill-yellow-400 text-yellow-400'
                           : 'text-gray-600'
                       }
