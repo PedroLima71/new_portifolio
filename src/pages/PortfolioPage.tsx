@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { db } from '../firebase.config';
 import { collection, getDocs, query, where } from 'firebase/firestore';
 import { Video } from '../types';
-import VideoCarousel from '../components/VideoCarousel';
 import VideoModal from '../components/VideoModal';
 import { Filter } from 'lucide-react';
 import { mockVideos } from '../mockData';

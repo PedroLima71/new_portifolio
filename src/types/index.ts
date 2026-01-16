@@ -13,7 +13,6 @@ export interface Video {
 }
 
 export interface Comentario {
-  [x: string]: number;
   id: string;
   nomeUsuario: string;
   comentario: string;

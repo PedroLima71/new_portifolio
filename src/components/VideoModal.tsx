@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Play } from 'lucide-react';
+import { X } from 'lucide-react';
 import { Video } from '../types';
 
 interface VideoModalProps {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Phone, MessageCircle, Mail, Zap, BookOpen, Sparkles, Tv } from 'lucide-react';
+import { Phone, MessageCircle, Mail } from 'lucide-react';
 
 interface ContactSectionProps {
   telefone?: string;

@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Sparkles, ArrowRight } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { ArrowRight } from 'lucide-react';
 import { db } from '../firebase.config';
 import { collection, getDocs, query, where } from 'firebase/firestore';
 import { Video } from '../types';
@@ -10,9 +9,6 @@ import ContactSection from '../components/ContactSection';
 import VideoModal from '../components/VideoModal';
 import WhatsAppButton from '../components/WhatsAppButton';
 import { mockVideos } from '../mockData';
-import edicaoImg from '../images/edicao.jpg';
-import ideiaImg from '../images/ideia.jpg';
-import gravacaoImg from '../images/gravação.jpg';
 import PedroImg from '../images/Pedro.jpeg';
 import brunoImg from '../images/bruno.jpeg';
 import italaImg from '../images/italaSurf.jpeg';
