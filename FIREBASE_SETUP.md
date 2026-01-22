@@ -113,7 +113,7 @@ service cloud.firestore {
 |-------|------|-------|
 | `nome` | String | Pedro Henrique |
 | `descricao` | String | Portfólio interativo de edição de vídeos |
-| `telefone` | String | +55 (11) 98765-4321 |
+| `telefone` | String | +55 (81) 98285-3640 |
 | `whatsappLink` | String | https://wa.me/5511987654321 |
 | `createdAt` | Timestamp | (data/hora atual) |
 

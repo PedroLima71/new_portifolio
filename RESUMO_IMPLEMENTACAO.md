@@ -271,7 +271,7 @@ firebase
   │   └── [portfolioDoc]
   │       ├── nome: "Pedro Henrique"
   │       ├── descricao: "Edição e criação de vídeos"
-  │       ├── telefone: "+55 (11) 98765-4321"
+  │       ├── telefone: "+55 (81) 98285-3640"
   │       ├── createdAt: timestamp
   │       └── videos (subcoleção)
   │           └── [videoDoc]

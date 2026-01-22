@@ -10,7 +10,7 @@ Este arquivo contém estruturas de dados de exemplo que você pode usar para pop
 {
   "nome": "Pedro Henrique",
   "descricao": "Portfólio interativo de edição e criação de vídeos de alta qualidade",
-  "telefone": "+55 (11) 98765-4321",
+  "telefone": "+55 (81) 98285-3640",
   "whatsappLink": "https://wa.me/5511987654321",
   "email": "contato@pedrostudio.com",
   "createdAt": "2025-12-20T00:00:00Z"

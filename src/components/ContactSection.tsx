@@ -8,7 +8,7 @@ interface ContactSectionProps {
 }
 
 const ContactSection: React.FC<ContactSectionProps> = ({
-  telefone = '+55 (11) 98765-4321',
+  telefone = '+55 (81) 98285-3640',
   email = 'contato@pedrostudio.com',
   whatsappLink = 'https://wa.me/5511987654321'
 }) => {

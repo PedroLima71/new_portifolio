@@ -229,7 +229,7 @@ npm run build
 Para problemas ou sugestões, entre em contato via:
 - **WhatsApp:** [Link direto]
 - **Email:** contato@pedrostudio.com
-- **Telefone:** +55 (11) 98765-4321
+- **Telefone:** +55 (81) 98285-3640
 
 ## Licença
 

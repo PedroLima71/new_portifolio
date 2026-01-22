@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="text-lg font-semibold text-slate-200 mb-4">Contato</h4>
             <p className="text-slate-400 mb-2">📧 contato@pedrostudio.com</p>
-            <p className="text-slate-400">📱 +55 (11) 98765-4321</p>
+            <p className="text-slate-400">📱 +55 (81) 98285-3640</p>
           </div>
         </div>
 
